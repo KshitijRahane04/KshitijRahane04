@@ -18,9 +18,7 @@ I'm an aspiring software developer based in Pune, Maharashtra, currently pursuin
   * *Tech:* React, JavaScript, CSS
   * *Description:* A web-based application designed to streamline doctor bookings and manage patient interactions efficiently.
 
-* **[Task Management Website](https://github.com/KshitijRahane04)**
-  * *Tech:* JavaScript, HTML, CSS
-  * *Description:* A responsive task manager featuring full CRUD (Create, Read, Update, Delete) functionality to help users organize their daily workflows.
+
 
 ---
 
