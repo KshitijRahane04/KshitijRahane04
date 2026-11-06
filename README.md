@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kshitij Rahane
 
-I'm an aspiring software developer based in Pune, Maharashtra, currently pursuing my B.E. at D. Y. Patil College of Engineering, Akurdi (Expected 2027). I love building responsive, user-friendly web applications and exploring frontend development.
+I'm an aspiring AI Engineer based in Pune, Maharashtra, currently pursuing my B.E. at D. Y. Patil College of Engineering, Akurdi (Expected 2027). I love building responsive, user-friendly web applications and exploring frontend development.
 
 ---
 
